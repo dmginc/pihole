@@ -1,27 +1,3 @@
-# The below list amalgamates several lists we used previously.
-# See `https://github.com/StevenBlack/hosts` for details
-##StevenBlack's list
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-
-##MalwareDomains
-https://mirror1.malwaredomains.com/files/justdomains
-
-##Cameleon
-http://sysctl.org/cameleon/hosts
-
-##Zeustracker
-https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-
-##Disconnect.me Tracking
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-
-##Disconnect.me Ads
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-
-##Hosts-file.net
-https://hosts-file.net/ad_servers.txt
-
-##Wally3kLists
 https://hosts-file.net/grm.txt
 https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
@@ -39,7 +15,7 @@ https://v.firebog.net/hosts/Easyprivacy.txt
 https://v.firebog.net/hosts/Prigent-Ads.txt
 https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/tyzbit/hosts
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt
 https://v.firebog.net/hosts/Airelle-hrsk.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://mirror1.malwaredomains.com/files/justdomains
