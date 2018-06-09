@@ -8,7 +8,11 @@ sleep 1
 echo -e " \e[1m Hopefully that worked!  \e[0m"
 echo ' '
 sleep 1
-echo -e " \e[1m Syncing blacklist now...  \e[0m"
+echo -e " \e[1m Removing and cleaning up old blacklists..  \e[0m"
+rm -rf /etc/pihole/list.*
+echo ' '
+sleep 1
+echo -e " \e[1m Pulling new blacklists now...  \e[0m"
 curl -sS https://raw.githubusercontent.com/dmginc/pihole/master/adlists.list > /etc/pihole/adlists.list
 echo ' '
 sleep 1
