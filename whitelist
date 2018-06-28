@@ -8,6 +8,8 @@ app.plex.tv
 apps.mobilityware.com
 apps.skype.com
 apt.sonarr.tv
+audio-akp-spotify-com.akamaized.net
+audio-fa.scdn.co
 bitbucket.org
 bit.ly
 captive.apple.com
@@ -20,6 +22,7 @@ clients4.google.com
 clients5.google.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
+cooper.logs.roku.com
 cpms35.spop10.ams.plex.bz
 cpms.spop10.ams.plex.bz
 creative.ak.fbcdn.net
@@ -116,6 +119,7 @@ sa.symcb.com
 scontent.fgdl5-1.fna.fbcdn.net
 scontent-lhr3-1.xx.fbcdn.net
 scontent.xx.fbcdn.net
+scribe.logs.roku.com
 service.maxymiser.net
 services.sonarr.tv
 settings.data.microsoft.com
