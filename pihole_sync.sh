@@ -2,7 +2,7 @@
 # This is a quick and shitty script, but it works.  So, there's that.
 
 echo -e " \e[1m Downloading and merging whitelist now... \e[0m"
-curl -sS https://raw.githubusercontent.com/dmginc/pihole/master/whitelist > /etc/pihole/whitelist.txt
+curl -sS https://raw.githubusercontent.com/dmginc/pihole/master/whitelist.txt > /etc/pihole/whitelist.txt
 echo ' '
 sleep 1
 echo -e " \e[1m Hopefully that worked!  \e[0m"
