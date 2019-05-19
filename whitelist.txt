@@ -149,9 +149,12 @@ sr2.liveperson.net
 ssl.p.jwpcdn.com
 staging.plex.tv
 static.inq.com
+statsfe2.update.microsoft.com
+statsfe2.ws.microsoft.com
 stats.gc.apple.com
 status.plex.tv
 storecatalogrevocation.storequality.microsoft.com
+survey.foreseeresults.com
 s.youtube.com
 sysctl.org
 s.zkcdn.net
