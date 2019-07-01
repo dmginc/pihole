@@ -1,5 +1,6 @@
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 29773.v.fwmrm.net
+activity.windows.com
 adaway.org
 amzn.to
 analytics.query.yahoo.com
@@ -16,6 +17,7 @@ audio-akp-spotify-com.akamaized.net
 audio-fa.scdn.co
 bitbucket.org
 bit.ly
+browser.pipe.aria.microsoft.com
 captive.apple.com
 cdn.optimizely.com
 cdn.ravenjs.com
@@ -27,9 +29,11 @@ clients2.google.com
 clients3.google.com
 clients4.google.com
 clients5.google.com
+client.wns.windows.com
 cobrowse-verizon.inq.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
+continuum.dds.microsoft.com
 cooper.logs.roku.com
 cpms35.spop10.ams.plex.bz
 cpms.spop10.ams.plex.bz
@@ -37,6 +41,8 @@ creative.ak.fbcdn.net
 c.s-microsoft.com
 cws.conviva.com
 dashboard.plex.tv
+datacloud.tealiumiq.com
+datacloud-us-east-1.tealiumiq.com
 data.logentries.com
 delivery.vidible.tv
 dev.virtualearth.net
@@ -58,6 +64,7 @@ external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 fbcdn-creative-a.akamaihd.net
 forums.sonarr.tv
+fp.msedge.net
 fs.microsoft.com
 games.espn.go.com
 geo0.ggpht.com
@@ -123,6 +130,7 @@ pubsub.plex.bz
 pubsub.plex.tv
 ransomwaretracker.abuse.ch
 raw.githubusercontent.com
+rebrand.ly
 reddestdream.github.io
 redirector.gvt1.com
 s1.symcb.com
