@@ -24,6 +24,7 @@ cdn.ravenjs.com
 cdn.vidible.tv
 chatrouter-lax1.inq.com
 chatrouter-verizon.inq.com
+click.linksynergy.com
 clients1.google.com
 clients2.google.com
 clients3.google.com
@@ -115,6 +116,7 @@ ocsp.apple.com
 officeclient.microsoft.com
 oload.win
 open.scdn.co
+otf.msn.com
 outlook.office365.com
 ow.ly
 pbs.twimg.com
@@ -141,6 +143,7 @@ s3.symcb.com
 s4.symcb.com
 s5.symcb.com
 sales.liveperson.net
+sam.msn.com
 sa.symcb.com
 scontent.fgdl5-1.fna.fbcdn.net
 scontent-lhr3-1.xx.fbcdn.net
