@@ -2,16 +2,19 @@
 29773.v.fwmrm.net
 activity.windows.com
 adaway.org
+adl.windows.com
 amzn.to
 analytics.query.yahoo.com
 analytics.twitter.com
 android.clients.google.com
+api.mixpanel.com
 api-statcloud.a03.yahoodns.net
 appleid.apple.com
 app.plex.tv
 apps.mobilityware.com
 apps.skype.com
 apt.sonarr.tv
+arc.msn.com
 assets.adobedtm.com
 audio-akp-spotify-com.akamaized.net
 audio-fa.scdn.co
@@ -19,8 +22,10 @@ bitbucket.org
 bit.ly
 browser.pipe.aria.microsoft.com
 captive.apple.com
+cdn.mxpnl.com
 cdn.optimizely.com
 cdn.ravenjs.com
+cdn-settings.segment.com
 cdn.vidible.tv
 chatrouter-lax1.inq.com
 chatrouter-verizon.inq.com
@@ -41,6 +46,7 @@ cpms.spop10.ams.plex.bz
 creative.ak.fbcdn.net
 c.s-microsoft.com
 cws.conviva.com
+d2wy8f7a9ursnm.cloudfront.net
 dashboard.plex.tv
 datacloud.tealiumiq.com
 datacloud-us-east-1.tealiumiq.com
@@ -149,6 +155,7 @@ scontent.fgdl5-1.fna.fbcdn.net
 scontent-lhr3-1.xx.fbcdn.net
 scontent.xx.fbcdn.net
 scribe.logs.roku.com
+self.events.data.microsoft.com
 service.maxymiser.net
 services.sonarr.tv
 settings.data.microsoft.com
