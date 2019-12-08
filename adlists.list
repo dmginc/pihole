@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://hosts-file.net/ad_servers.txt
 https://v.firebog.net/hosts/Easylist.txt
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
 https://www.squidblacklist.org/downloads/dg-ads.acl
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
