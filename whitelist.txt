@@ -3,7 +3,6 @@
 activity.windows.com
 adaway.org
 adl.windows.com
-ally.tt.omtrdc.net
 amzn.to
 analytics.query.yahoo.com
 analytics.twitter.com
@@ -90,6 +89,7 @@ gravatar.com
 gsp1.apple.com
 hosts-file.net
 img.vidible.tv
+iphonesubmissions.apple.com
 ipv6.msftncsi.com
 i.s-microsoft.com
 j.mp
@@ -100,7 +100,6 @@ location.services.mozilla.com
 login.live.com
 lptag.liveperson.net
 mac-torrents.com
-mboxedge28.tt.omtrdc.net
 media-lax1.inq.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
@@ -115,6 +114,8 @@ mobile.pipe.aria.microsoft.com
 mpsnare.iesnare.com
 msftncsi.com
 nexus.ensighten.com
+nexus.officeapps.live.com
+nexusrules.officeapps.live.com
 nine.plugins.plexapp.com
 node.plexapp.com
 ns1.dropbox.com
@@ -137,6 +138,7 @@ products.office.com
 proxy02.pop.ord.plex.bz
 proxy.plex.bz
 proxy.plex.tv
+p.typekit.net
 pubsub.plex.bz
 pubsub.plex.tv
 ransomwaretracker.abuse.ch
