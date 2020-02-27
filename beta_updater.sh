@@ -10,7 +10,7 @@
 for whitedomain in `cat /root/whitelist_test`
 do
 id=$((id+1))
-    /usr/bin/sqlite3 /etc/pihole/gravity.db "INSERT INTO domainlist VALUES ($id, 0, '$whitedomain', 1, date('now'), date ('now'), '');"
+   /usr/bin/sqlite3 /etc/pihole/gravity.db "INSERT INTO domainlist VALUES ($id, 0, '$whitedomain', 1, date('now'), date ('now'), '');"
 done
 
 #Output total in new whitelist
