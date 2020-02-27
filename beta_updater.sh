@@ -30,7 +30,7 @@ echo `sqlite3 /etc/pihole/gravity.db "SELECT domain FROM domainlist WHERE type =
 for i in `cat /root/adlist_test`
 do
 id=$((id+1))
-        /usr/bin/sqlite3 /etc/pihole/gravity.db "INSERT OR IGNORE INTO adlist VALUES ($id, '$i', 1, date('now'), date('now'), '');"
+	/usr/bin/sqlite3 /etc/pihole/gravity.db "INSERT OR IGNORE INTO adlist VALUES ($id, '$i', 1, date('now'), date('now'), '');"
 done
 
 #Reload PiHole
