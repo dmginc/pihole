@@ -9,10 +9,10 @@ timestamp=`date '+%Y%m%d%H%M%S'`;
 /usr/bin/sqlite3 /etc/pihole/gravity.db "DELETE FROM domainlist";
 
 #Import new whitelist domains
-for whitedomain in `cat /root/whitelist_test`
+for domain in `curl -sS https://raw.githubusercontent.com/dmginc/pihole/master/whitelist.txt`
 do
 id=$((id+1))
-	/usr/bin/sqlite3 /etc/pihole/gravity.db "INSERT INTO domainlist VALUES ($id, 0, '$whitedomain', 1, date('now'), date ('now'), '');"
+	/usr/bin/sqlite3 /etc/pihole/gravity.db "INSERT INTO domainlist VALUES ($id, 0, '$domain', 1, date('now'), date ('now'), '');"
 done
 
 #Output total in new whitelist
@@ -29,10 +29,10 @@ echo `sqlite3 /etc/pihole/gravity.db "SELECT domain FROM domainlist WHERE type =
 /bin/rm -rf /etc/pihole/list.*
 
 #Import new adlists
-for i in `cat /root/adlist_test`
+for domain in `curl -sS https://raw.githubusercontent.com/dmginc/pihole/master/adlists.list`
 do
 id=$((id+1))
-	/usr/bin/sqlite3 /etc/pihole/gravity.db "INSERT OR IGNORE INTO adlist VALUES ($id, '$i', 1, date('now'), date('now'), '');"
+	/usr/bin/sqlite3 /etc/pihole/gravity.db "INSERT OR IGNORE INTO adlist VALUES ($id, '$domain', 1, date('now'), date('now'), '');"
 done
 
 #Reload PiHole
