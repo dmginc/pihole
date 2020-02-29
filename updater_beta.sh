@@ -29,10 +29,10 @@ echo `sqlite3 /etc/pihole/gravity.db "SELECT COUNT(domain) FROM domainlist WHERE
 /bin/rm -rf /etc/pihole/list.*
 
 #Import new adlists
-for domain in `curl -sS https://raw.githubusercontent.com/dmginc/pihole/master/adlists.list | grep -v "#"`
+for address in `curl -sS https://raw.githubusercontent.com/dmginc/pihole/master/adlists.list | grep -v "#"`
 do
 id=$((id+1))
-	/usr/bin/sqlite3 /etc/pihole/gravity.db "INSERT OR IGNORE INTO adlist VALUES ($id, '$domain', 1, date('now'), date('now'), '');"
+	/usr/bin/sqlite3 /etc/pihole/gravity.db "INSERT OR IGNORE INTO adlist VALUES ($id, '$address', 1, date('now'), date('now'), '');"
 done
 
 #Reload PiHole
