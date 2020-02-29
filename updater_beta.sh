@@ -12,11 +12,11 @@ timestamp=`date '+%Y%m%d%H%M%S'`;
 for domain in `curl -sS https://raw.githubusercontent.com/dmginc/pihole/master/whitelist.txt`
 do
 id=$((id+1))
-	/usr/bin/sqlite3 /etc/pihole/gravity.db "INSERT INTO domainlist VALUES ($id, 0, '$domain', 1, date('now'), date ('now'), '');"
+	/usr/bin/sqlite3 /etc/pihole/gravity.db "INSERT OR IGNORE INTO domainlist VALUES ($id, 0, '$domain', 1, date('now'), date ('now'), '');"
 done
 
 #Output total in new whitelist
-echo `sqlite3 /etc/pihole/gravity.db "SELECT domain FROM domainlist WHERE type = 0;" | wc -l` "domains in new whitelist"
+echo `sqlite3 /etc/pihole/gravity.db "SELECT COUNT(domain) FROM domainlist WHERE type = 0;"` "domains in new whitelist"
 
 #Adlist Maintenance
 #Backup old adlist domains
