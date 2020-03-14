@@ -24,6 +24,7 @@ browser.pipe.aria.microsoft.com
 c.s-microsoft.com
 captive.apple.com
 cdn-settings.segment.com
+cdn.discordapp.com
 cdn.mxpnl.com
 cdn.optimizely.com
 cdn.ravenjs.com
@@ -46,6 +47,7 @@ cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 creative.ak.fbcdn.net
 cws.conviva.com
+d1bl11pgu3tw3h.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 dashboard.plex.tv
 data.logentries.com
@@ -197,6 +199,7 @@ v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.events.data.microsoft.com
 verizon.inq.com
+video-api.mco.arcpublishing.com
 video-stats.l.google.com
 videos.vidible.tv
 watson.telemetry.microsoft.com
