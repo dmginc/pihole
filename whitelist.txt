@@ -9,6 +9,7 @@ analytics.twitter.com
 android.clients.google.com
 api-statcloud.a03.yahoodns.net
 api.mixpanel.com
+api2.branch.io
 app.plex.tv
 appleid.apple.com
 apps.mobilityware.com
@@ -20,11 +21,14 @@ audio-akp-spotify-com.akamaized.net
 audio-fa.scdn.co
 bit.ly
 bitbucket.org
+bnetcmsus-a.akamaihd.net
 browser.pipe.aria.microsoft.com
 c.s-microsoft.com
 captive.apple.com
 cdn-settings.segment.com
+cdn.branch.io
 cdn.discordapp.com
+cdn.mouseflow.com
 cdn.mxpnl.com
 cdn.optimizely.com
 cdn.ravenjs.com
@@ -46,6 +50,7 @@ cooper.logs.roku.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 creative.ak.fbcdn.net
+ctldl.windowsupdate.com
 cws.conviva.com
 d1bl11pgu3tw3h.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
@@ -83,6 +88,7 @@ geo0.ggpht.com
 geo1.ggpht.com
 geo2.ggpht.com
 geo3.ggpht.com
+geolocation.onetrust.com
 geover-prod.do.dsp.mp.microsoft.com
 gfe.nvidia.com
 gfwsl.geforce.com
@@ -134,6 +140,7 @@ outlook.office365.com
 ow.ly
 p.typekit.net
 pbs.twimg.com
+ping.ui.com
 players.brightcove.net
 plex.tv
 pricelist.skype.com
@@ -187,6 +194,7 @@ sysctl.org
 t.co
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 tags.tiqcdn.com
+telemetry-in.battle.net
 themoviedb.com
 thepiratebay.org
 thetvdb.com
@@ -205,6 +213,7 @@ videos.vidible.tv
 watson.telemetry.microsoft.com
 win1710.ipv6.microsoft.com
 win8.ipv6.microsoft.com
+www-googletagmanager.l.google.com
 www.apple.com
 www.appleiphonecell.com
 www.bit.ly
