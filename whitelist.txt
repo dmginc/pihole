@@ -80,6 +80,7 @@ fbcdn-creative-a.akamaihd.net
 fonts.gstatic.com
 forums.sonarr.tv
 fp.msedge.net
+frog.wix.com
 fs.microsoft.com
 games.espn.go.com
 geo-prod.do.dsp.mp.microsoft.com
@@ -184,6 +185,7 @@ sr2.liveperson.net
 ssl.p.jwpcdn.com
 staging.plex.tv
 static.inq.com
+static.wixstatic.com
 stats.gc.apple.com
 statsfe2.update.microsoft.com
 statsfe2.ws.microsoft.com
