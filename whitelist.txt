@@ -94,6 +94,7 @@ geover-prod.do.dsp.mp.microsoft.com
 gfe.nvidia.com
 gfwsl.geforce.com
 goo.gl
+graph.instagram.com
 gravatar.com
 gsp1.apple.com
 hosts-file.net
@@ -191,6 +192,7 @@ statsfe2.update.microsoft.com
 statsfe2.ws.microsoft.com
 status.plex.tv
 storecatalogrevocation.storequality.microsoft.com
+supportmetrics.apple.com
 survey.foreseeresults.com
 sysctl.org
 t.co
