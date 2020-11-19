@@ -202,6 +202,7 @@ telemetry-in.battle.net
 themoviedb.com
 thepiratebay.org
 thetvdb.com
+tracking-protection.cdn.mozilla.net
 tvdb2.plex.tv
 tvthemes.plexapp.com
 tvthemes.plexapp.com.cdn.cloudflare.net
