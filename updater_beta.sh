@@ -1,4 +1,4 @@
-#Updater v1.0
+#Updater v1.0.0
 
 #!/bin/bash
 timestamp=`date '+%Y%m%d%H%M%S'`;
