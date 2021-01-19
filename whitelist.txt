@@ -64,6 +64,7 @@ directvapplications.hb.omtrdc.net
 directvnow.com
 dl.dropboxusercontent.com
 download.sonarr.tv
+dpm.demdex.net
 edge.api.brightcove.com
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
@@ -83,6 +84,7 @@ fp.msedge.net
 frog.wix.com
 fs.microsoft.com
 games.espn.go.com
+gateway.icloud.com
 geo-prod.do.dsp.mp.microsoft.com
 geo.nbcsports.com
 geo0.ggpht.com
@@ -96,6 +98,7 @@ gfwsl.geforce.com
 goo.gl
 graph.instagram.com
 gravatar.com
+gs-loc.apple.com
 gsp1.apple.com
 hosts-file.net
 i.s-microsoft.com
@@ -212,6 +215,7 @@ v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.events.data.microsoft.com
 verizon.inq.com
+version.bind
 video-api.mco.arcpublishing.com
 video-stats.l.google.com
 videos.vidible.tv
