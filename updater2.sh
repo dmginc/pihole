@@ -30,15 +30,15 @@ id=$((id+1))
 	/usr/bin/sqlite3 /etc/pihole/gravity.db "INSERT OR IGNORE INTO domainlist VALUES ($id, 0, '$domain', 1, date('now'), date ('now'), '');"
 done
 
+#Output total in new whitelist
+echo `sqlite3 /etc/pihole/gravity.db "SELECT COUNT(domain) FROM domainlist WHERE type = 0;"` "domains in new whitelist"
+
 #Import new adlists
 for address in `curl -sS https://raw.githubusercontent.com/dmginc/pihole/master/adlists.list | grep -v "#"`
 do
 id=$((id+1))
 /usr/bin/sqlite3 /etc/pihole/gravity.db "INSERT OR IGNORE INTO adlist VALUES ($id, '$address', 1, date('now'), date('now'), '', date('now'), '', '', '');"
 done
-
-#Output total in new whitelist
-echo `sqlite3 /etc/pihole/gravity.db "SELECT COUNT(domain) FROM domainlist WHERE type = 0;"` "domains in new whitelist"
 
 #Reload PiHole
 /usr/local/bin/pihole -g
