@@ -8,6 +8,7 @@ analytics.query.yahoo.com
 analytics.twitter.com
 android.clients.google.com
 api-statcloud.a03.yahoodns.net
+api.erabu.sony.tv
 api.mixpanel.com
 api2.branch.io
 app.plex.tv
