@@ -79,6 +79,7 @@ external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 fbcdn-creative-a.akamaihd.net
+firebaselogging-pa.googleapis.com
 fonts.gstatic.com
 forums.sonarr.tv
 fp.msedge.net
@@ -116,6 +117,7 @@ login.live.com
 lptag.liveperson.net
 m.hotmail.com
 mac-torrents.com
+mask.icloud.com
 media-lax1.inq.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
