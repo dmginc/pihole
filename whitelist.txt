@@ -52,6 +52,7 @@ cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 creative.ak.fbcdn.net
 ctldl.windowsupdate.com
+customer.homedepot.com
 cws.conviva.com
 d1bl11pgu3tw3h.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
@@ -164,6 +165,7 @@ raw.githubusercontent.com
 rebrand.ly
 reddestdream.github.io
 redirector.gvt1.com
+rma.homedepot.com
 s.gateway.messenger.live.com
 s.youtube.com
 s.zkcdn.net
@@ -200,6 +202,7 @@ status.plex.tv
 storecatalogrevocation.storequality.microsoft.com
 supportmetrics.apple.com
 survey.foreseeresults.com
+swasc.homedepot.com
 sysctl.org
 t.co
 t0.ssl.ak.dynamic.tiles.virtualearth.net
@@ -234,5 +237,6 @@ www.malwaredomainlist.com
 www.msftncsi.com
 www.ojrq.net
 www.plex.tv
+xp.apple.com
 youtu.be
 zeustracker.abuse.ch
